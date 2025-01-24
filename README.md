@@ -10,7 +10,7 @@ Proyek ini adalah sebuah **Kalkulator Sederhana** yang dirancang untuk membantu 
   - Prasetya
   - Randy
   - Faqih
-  - Muiara
+  - Mutiara
 
 ## Fitur
 - Penjumlahan
